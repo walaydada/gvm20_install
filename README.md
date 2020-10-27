@@ -6,7 +6,7 @@ Tested successfully in a ProxmoxVE at 20201001.
 
     sudo su -
     cd ~
-    wget https://github.com/walaydada/gvm20_install_script_on_Ubuntu20/blob/main/install_gvm.sh
+    wget https://github.com/walaydada/gvm20_install/blob/main/install_gvm.sh
     chmod +x install_gvm.sh
     ./install_gvm.sh
 
